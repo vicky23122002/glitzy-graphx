@@ -1,0 +1,14 @@
+header.masthead.gg-masthead {
+  background-color: #000000;
+  padding-top: 7rem;
+  
+}
+#mainNav .navbar-brand.gg-navbar-brand img{
+  height: 5rem;
+  /* display: block; */
+}
+.ggnavshrink{
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
